@@ -1,0 +1,401 @@
+source_dataset,platform,record_type,region,sentiment,primary_topic,record_count,total_views,total_likes,total_shares,total_comments,total_dislikes,total_engagement,total_text_length,avg_text_length,engagement_rate,topic_rank
+tweet_sentiment_selection,Twitter,tweet,Unknown,positive,#fb,14,0,0,0,0,0,0,1111,79.357143,0.0,1
+tweet_sentiment_selection,Twitter,tweet,Unknown,positive,#followfriday,11,0,0,0,0,0,0,763,69.363636,0.0,2
+tweet_sentiment_selection,Twitter,tweet,Unknown,negative,#bgt,10,0,0,0,0,0,0,463,46.3,0.0,3
+tweet_sentiment_selection,Twitter,tweet,Unknown,neutral,#fb,10,0,0,0,0,0,0,705,70.5,0.0,4
+tweet_sentiment_selection,Twitter,tweet,Unknown,neutral,#followfriday,9,0,0,0,0,0,0,745,82.777778,0.0,5
+tweet_sentiment_selection,Twitter,tweet,Unknown,neutral,#starwarsday,7,0,0,0,0,0,0,601,85.857143,0.0,6
+tweet_sentiment_selection,Twitter,tweet,Unknown,neutral,#bgt,6,0,0,0,0,0,0,342,57.0,0.0,7
+tweet_sentiment_selection,Twitter,tweet,Unknown,negative,#fb,5,0,0,0,0,0,0,368,73.6,0.0,8
+tweet_sentiment_selection,Twitter,tweet,Unknown,neutral,#ff,5,0,0,0,0,0,0,448,89.6,0.0,9
+tweet_sentiment_selection,Twitter,tweet,Unknown,positive,#juddday,5,0,0,0,0,0,0,133,26.6,0.0,10
+tweet_sentiment_selection,Twitter,tweet,Unknown,negative,#fail,4,0,0,0,0,0,0,370,92.5,0.0,11
+tweet_sentiment_selection,Twitter,tweet,Unknown,positive,#1,4,0,0,0,0,0,0,403,100.75,0.0,12
+tweet_sentiment_selection,Twitter,tweet,Unknown,positive,#bgt,4,0,0,0,0,0,0,359,89.75,0.0,13
+tweet_sentiment_selection,Twitter,tweet,Unknown,positive,#movie,4,0,0,0,0,0,0,299,74.75,0.0,14
+tweet_sentiment_selection,Twitter,tweet,Unknown,positive,#sanctuarysunday,4,0,0,0,0,0,0,424,106.0,0.0,15
+tweet_sentiment_selection,Twitter,tweet,Unknown,negative,#2,3,0,0,0,0,0,0,200,66.666667,0.0,16
+tweet_sentiment_selection,Twitter,tweet,Unknown,negative,#ff,3,0,0,0,0,0,0,196,65.333333,0.0,17
+tweet_sentiment_selection,Twitter,tweet,Unknown,negative,#followfriday,3,0,0,0,0,0,0,227,75.666667,0.0,18
+tweet_sentiment_selection,Twitter,tweet,Unknown,negative,#itsucks,3,0,0,0,0,0,0,207,69.0,0.0,19
+tweet_sentiment_selection,Twitter,tweet,Unknown,neutral,#2,3,0,0,0,0,0,0,265,88.333333,0.0,20
+tweet_sentiment_selection,Twitter,tweet,Unknown,neutral,#hhrs,3,0,0,0,0,0,0,182,60.666667,0.0,21
+tweet_sentiment_selection,Twitter,tweet,Unknown,neutral,#pens,3,0,0,0,0,0,0,265,88.333333,0.0,22
+tweet_sentiment_selection,Twitter,tweet,Unknown,neutral,#twpp,3,0,0,0,0,0,0,81,27.0,0.0,23
+tweet_sentiment_selection,Twitter,tweet,Unknown,positive,#ff,3,0,0,0,0,0,0,212,70.666667,0.0,24
+tweet_sentiment_selection,Twitter,tweet,Unknown,negative,#fieldnotes,2,0,0,0,0,0,0,192,96.0,0.0,25
+viral_social_media_trends,Instagram,post,Canada,Unknown,#dance,25,48343094,6979376,1048010,622286,0,8649672,150,6.0,0.178923,1
+viral_social_media_trends,Instagram,post,Australia,Unknown,#fitness,25,56143854,5765169,1529773,690973,0,7985915,200,8.0,0.14224,2
+viral_social_media_trends,Instagram,post,Usa,Unknown,#fitness,23,47013213,6090237,1370588,636336,0,8097161,184,8.0,0.172232,3
+viral_social_media_trends,Instagram,post,Brazil,Unknown,#education,23,54280784,5390693,1129590,488510,0,7008793,230,10.0,0.129121,4
+viral_social_media_trends,Instagram,post,India,Unknown,#viral,22,45221803,6091945,1276104,509501,0,7877550,132,6.0,0.174198,5
+viral_social_media_trends,Instagram,post,Canada,Unknown,#music,22,56171555,5866546,911039,566927,0,7344512,132,6.0,0.130751,6
+viral_social_media_trends,Instagram,post,Japan,Unknown,#fitness,22,48901629,5176944,1450505,530554,0,7158003,176,8.0,0.146376,7
+viral_social_media_trends,Instagram,post,India,Unknown,#gaming,22,64615026,5378047,1084758,464511,0,6927316,154,7.0,0.107209,8
+viral_social_media_trends,Instagram,post,Canada,Unknown,#education,21,44671119,5572902,1183209,468751,0,7224862,210,10.0,0.161735,9
+viral_social_media_trends,Instagram,post,Germany,Unknown,#tech,21,60068905,4989870,1073127,662554,0,6725551,105,5.0,0.111964,10
+viral_social_media_trends,Instagram,post,Australia,Unknown,#music,21,46949660,4765018,991131,586264,0,6342413,126,6.0,0.13509,11
+viral_social_media_trends,Instagram,post,Uk,Unknown,#tech,20,55049042,6283866,946167,348130,0,7578163,100,5.0,0.137662,12
+viral_social_media_trends,Instagram,post,Canada,Unknown,#comedy,20,50221783,4878005,1226406,534732,0,6639143,140,7.0,0.132196,13
+viral_social_media_trends,Instagram,post,Uk,Unknown,#comedy,19,55532673,4571495,909347,447802,0,5928644,133,7.0,0.10676,14
+viral_social_media_trends,Instagram,post,Canada,Unknown,#tech,18,45057492,5125267,715219,506530,0,6347016,90,5.0,0.140865,15
+viral_social_media_trends,Instagram,post,Germany,Unknown,#education,18,40318852,5076517,834997,416752,0,6328266,180,10.0,0.156956,16
+viral_social_media_trends,Instagram,post,Usa,Unknown,#challenge,18,45300876,4782383,977521,325206,0,6085110,180,10.0,0.134327,17
+viral_social_media_trends,Instagram,post,Germany,Unknown,#comedy,18,44728798,4412450,702215,389841,0,5504506,126,7.0,0.123064,18
+viral_social_media_trends,Instagram,post,Brazil,Unknown,#comedy,17,39258827,5936085,782634,429463,0,7148182,119,7.0,0.182078,19
+viral_social_media_trends,Instagram,post,Usa,Unknown,#dance,17,41194474,5195450,820235,495199,0,6510884,102,6.0,0.158052,20
+viral_social_media_trends,Instagram,post,Australia,Unknown,#education,17,36701621,4721268,1071351,369227,0,6161846,170,10.0,0.16789,21
+viral_social_media_trends,Instagram,post,Brazil,Unknown,#gaming,17,46838967,4453836,807958,423614,0,5685408,119,7.0,0.121382,22
+viral_social_media_trends,Instagram,post,India,Unknown,#dance,17,36509343,4331917,691368,485244,0,5508529,102,6.0,0.15088,23
+viral_social_media_trends,Instagram,post,Germany,Unknown,#challenge,17,39539554,3958968,1054261,408121,0,5421350,170,10.0,0.137112,24
+viral_social_media_trends,Instagram,post,Brazil,Unknown,#fitness,17,46209718,3825354,1060500,379010,0,5264864,136,8.0,0.113934,25
+viral_social_media_trends,TikTok,post,Japan,Unknown,#education,26,65384737,5082779,1311834,572142,0,6966755,260,10.0,0.10655,1
+viral_social_media_trends,TikTok,post,Brazil,Unknown,#dance,25,68846197,5820710,1301647,538763,0,7661120,150,6.0,0.111279,2
+viral_social_media_trends,TikTok,post,Uk,Unknown,#comedy,25,54450546,4969833,1433040,360296,0,6763169,175,7.0,0.124208,3
+viral_social_media_trends,TikTok,post,Brazil,Unknown,#fitness,22,61306020,5211003,1122302,470296,0,6803601,176,8.0,0.110978,4
+viral_social_media_trends,TikTok,post,Usa,Unknown,#music,21,43963264,5429222,1041099,450384,0,6920705,126,6.0,0.15742,5
+viral_social_media_trends,TikTok,post,Canada,Unknown,#comedy,21,40416288,5059956,1144111,531082,0,6735149,147,7.0,0.166644,6
+viral_social_media_trends,TikTok,post,India,Unknown,#challenge,21,48631473,4977017,978978,519292,0,6475287,210,10.0,0.13315,7
+viral_social_media_trends,TikTok,post,Canada,Unknown,#fitness,20,53279856,5652859,1118914,504953,0,7276726,160,8.0,0.136576,8
+viral_social_media_trends,TikTok,post,Australia,Unknown,#dance,20,48498359,5318279,960839,554875,0,6833993,120,6.0,0.140912,9
+viral_social_media_trends,TikTok,post,Japan,Unknown,#comedy,20,29894574,5068068,1107818,493956,0,6669842,140,7.0,0.223112,10
+viral_social_media_trends,TikTok,post,Usa,Unknown,#tech,20,53044504,4858339,909906,456928,0,6225173,100,5.0,0.117358,11
+viral_social_media_trends,TikTok,post,India,Unknown,#music,20,47816418,4737041,961932,503864,0,6202837,120,6.0,0.129722,12
+viral_social_media_trends,TikTok,post,Uk,Unknown,#music,19,56353435,5540371,1081099,559068,0,7180538,114,6.0,0.12742,13
+viral_social_media_trends,TikTok,post,Uk,Unknown,#education,19,47888296,5237427,887118,519146,0,6643691,190,10.0,0.138733,14
+viral_social_media_trends,TikTok,post,Uk,Unknown,#challenge,19,51831607,5089113,1034597,488450,0,6612160,190,10.0,0.12757,15
+viral_social_media_trends,TikTok,post,Germany,Unknown,#viral,19,52148699,4818788,847213,481947,0,6147948,114,6.0,0.117893,16
+viral_social_media_trends,TikTok,post,Usa,Unknown,#challenge,19,50699254,4528982,1001114,476744,0,6006840,190,10.0,0.11848,17
+viral_social_media_trends,TikTok,post,India,Unknown,#gaming,19,38995836,4235376,951313,594918,0,5781607,133,7.0,0.148262,18
+viral_social_media_trends,TikTok,post,Brazil,Unknown,#gaming,19,44198809,3251083,956388,547348,0,4754819,133,7.0,0.107578,19
+viral_social_media_trends,TikTok,post,Brazil,Unknown,#education,18,56882130,5446881,1058502,403209,0,6908592,180,10.0,0.121455,20
+viral_social_media_trends,TikTok,post,Japan,Unknown,#gaming,18,44487197,4941575,1024513,422553,0,6388641,126,7.0,0.143606,21
+viral_social_media_trends,TikTok,post,Uk,Unknown,#dance,18,43194214,4880765,931212,530416,0,6342393,108,6.0,0.146834,22
+viral_social_media_trends,TikTok,post,Canada,Unknown,#education,18,44696369,4415119,1139943,569701,0,6124763,180,10.0,0.13703,23
+viral_social_media_trends,TikTok,post,Canada,Unknown,#viral,18,42104744,4007034,924022,402679,0,5333735,108,6.0,0.126678,24
+viral_social_media_trends,TikTok,post,Usa,Unknown,#viral,18,44389979,3548047,747442,452783,0,4748272,108,6.0,0.106967,25
+viral_social_media_trends,Twitter,post,India,Unknown,#gaming,24,49228352,5970820,1294757,583066,0,7848643,168,7.0,0.159433,1
+viral_social_media_trends,Twitter,post,Usa,Unknown,#music,23,62470903,5594174,1229599,538368,0,7362141,138,6.0,0.117849,2
+viral_social_media_trends,Twitter,post,Usa,Unknown,#fitness,23,63784930,5473814,1226667,520378,0,7220859,184,8.0,0.113206,3
+viral_social_media_trends,Twitter,post,India,Unknown,#fitness,23,56219901,4466630,1125354,583990,0,6175974,184,8.0,0.109854,4
+viral_social_media_trends,Twitter,post,Usa,Unknown,#viral,22,63367050,6250075,1298290,499992,0,8048357,132,6.0,0.127012,5
+viral_social_media_trends,Twitter,post,Japan,Unknown,#education,21,60152360,6229578,1175148,497787,0,7902513,210,10.0,0.131375,6
+viral_social_media_trends,Twitter,post,India,Unknown,#education,21,53296365,5904625,1156360,668461,0,7729446,210,10.0,0.145028,7
+viral_social_media_trends,Twitter,post,Brazil,Unknown,#challenge,21,51972686,4647839,1252757,521880,0,6422476,210,10.0,0.123574,8
+viral_social_media_trends,Twitter,post,Uk,Unknown,#comedy,20,53053984,5560297,1032746,506794,0,7099837,140,7.0,0.133823,9
+viral_social_media_trends,Twitter,post,Canada,Unknown,#education,20,41615863,5615761,880845,471489,0,6968095,200,10.0,0.167438,10
+viral_social_media_trends,Twitter,post,Usa,Unknown,#fashion,20,43751224,4689257,1063456,484603,0,6237316,160,8.0,0.142563,11
+viral_social_media_trends,Twitter,post,Brazil,Unknown,#viral,20,57608257,4245742,1090324,479693,0,5815759,120,6.0,0.100954,12
+viral_social_media_trends,Twitter,post,Usa,Unknown,#comedy,19,51415963,5928237,1002302,497289,0,7427828,133,7.0,0.144465,13
+viral_social_media_trends,Twitter,post,Usa,Unknown,#challenge,19,45576224,4746732,1154356,417178,0,6318266,190,10.0,0.138631,14
+viral_social_media_trends,Twitter,post,India,Unknown,#comedy,19,50881814,4356325,905324,510546,0,5772195,133,7.0,0.113443,15
+viral_social_media_trends,Twitter,post,Australia,Unknown,#viral,19,40982248,2978668,1020779,579495,0,4578942,114,6.0,0.11173,16
+viral_social_media_trends,Twitter,post,Brazil,Unknown,#fashion,18,40922390,6227915,976841,412256,0,7617012,144,8.0,0.186133,17
+viral_social_media_trends,Twitter,post,Australia,Unknown,#comedy,18,42248469,5306774,920351,353307,0,6580432,126,7.0,0.155756,18
+viral_social_media_trends,Twitter,post,Canada,Unknown,#fashion,18,55355333,4916156,1131359,416623,0,6464138,144,8.0,0.116775,19
+viral_social_media_trends,Twitter,post,Australia,Unknown,#fitness,18,47806681,4468947,856459,345053,0,5670459,144,8.0,0.118612,20
+viral_social_media_trends,Twitter,post,Usa,Unknown,#dance,18,48727199,3974617,861022,425050,0,5260689,108,6.0,0.107962,21
+viral_social_media_trends,Twitter,post,Usa,Unknown,#gaming,18,44930021,2855075,974769,592625,0,4422469,126,7.0,0.09843,22
+viral_social_media_trends,Twitter,post,Brazil,Unknown,#education,17,52159022,4501061,872402,402788,0,5776251,170,10.0,0.110743,23
+viral_social_media_trends,Twitter,post,Australia,Unknown,#tech,17,41304835,4390862,760773,492396,0,5644031,85,5.0,0.136643,24
+viral_social_media_trends,Twitter,post,Uk,Unknown,#viral,17,31982381,4306708,714928,347892,0,5369528,102,6.0,0.16789,25
+viral_social_media_trends,YouTube,post,Brazil,Unknown,#tech,27,65284604,5974245,1563455,761630,0,8299330,135,5.0,0.127125,1
+viral_social_media_trends,YouTube,post,Uk,Unknown,#fashion,26,55530016,6689870,1476351,669926,0,8836147,208,8.0,0.159124,2
+viral_social_media_trends,YouTube,post,Germany,Unknown,#challenge,26,73259597,5826713,1430577,709192,0,7966482,260,10.0,0.108743,3
+viral_social_media_trends,YouTube,post,Australia,Unknown,#fitness,24,70770589,8185103,1033402,566023,0,9784528,192,8.0,0.138257,4
+viral_social_media_trends,YouTube,post,India,Unknown,#dance,24,68676651,5866153,1354664,562119,0,7782936,144,6.0,0.113327,5
+viral_social_media_trends,YouTube,post,Canada,Unknown,#challenge,23,53657718,6090772,1272218,594120,0,7957110,230,10.0,0.148294,6
+viral_social_media_trends,YouTube,post,Uk,Unknown,#viral,23,56286461,5572123,1157869,531080,0,7261072,138,6.0,0.129002,7
+viral_social_media_trends,YouTube,post,Uk,Unknown,#education,22,60813914,5572794,1288789,534876,0,7396459,220,10.0,0.121624,8
+viral_social_media_trends,YouTube,post,Canada,Unknown,#fitness,22,52139796,5368554,1401271,404793,0,7174618,176,8.0,0.137603,9
+viral_social_media_trends,YouTube,post,Canada,Unknown,#tech,21,44201550,6039673,1005198,639319,0,7684190,105,5.0,0.173844,10
+viral_social_media_trends,YouTube,post,Usa,Unknown,#fitness,21,55528607,5646067,830226,562084,0,7038377,168,8.0,0.126752,11
+viral_social_media_trends,YouTube,post,Usa,Unknown,#tech,21,60987215,5310260,1079832,567246,0,6957338,105,5.0,0.114079,12
+viral_social_media_trends,YouTube,post,Usa,Unknown,#gaming,21,64428727,5106877,1012077,570477,0,6689431,147,7.0,0.103827,13
+viral_social_media_trends,YouTube,post,Usa,Unknown,#education,21,49347871,4714812,997660,508203,0,6220675,210,10.0,0.126058,14
+viral_social_media_trends,YouTube,post,Canada,Unknown,#comedy,20,51895670,5801432,923741,476015,0,7201188,140,7.0,0.138763,15
+viral_social_media_trends,YouTube,post,Brazil,Unknown,#music,20,55005766,5713406,890470,479027,0,7082903,120,6.0,0.128767,16
+viral_social_media_trends,YouTube,post,Australia,Unknown,#challenge,20,49173976,4839247,1049158,482931,0,6371336,200,10.0,0.129567,17
+viral_social_media_trends,YouTube,post,India,Unknown,#education,20,44463330,4729397,779454,530797,0,6039648,200,10.0,0.135834,18
+viral_social_media_trends,YouTube,post,Japan,Unknown,#challenge,20,33372084,4294540,799992,459038,0,5553570,200,10.0,0.166414,19
+viral_social_media_trends,YouTube,post,Uk,Unknown,#comedy,19,52190520,5338505,807812,443501,0,6589818,133,7.0,0.126265,20
+viral_social_media_trends,YouTube,post,Germany,Unknown,#education,19,47136029,5221240,803262,518276,0,6542778,190,10.0,0.138806,21
+viral_social_media_trends,YouTube,post,Usa,Unknown,#fashion,19,48757869,4665138,963251,608287,0,6236676,152,8.0,0.127911,22
+viral_social_media_trends,YouTube,post,Canada,Unknown,#education,19,50917931,4626675,1010774,391373,0,6028822,190,10.0,0.118403,23
+viral_social_media_trends,YouTube,post,Usa,Unknown,#viral,19,52880372,4553745,933529,453357,0,5940631,114,6.0,0.112341,24
+viral_social_media_trends,YouTube,post,Brazil,Unknown,#challenge,19,54979582,4087464,887229,510505,0,5485198,190,10.0,0.099768,25
+youtube_publish_country_snapshot,YouTube,video,Canada,Unknown,nba,435,328717831,2856029,0,672280,152498,3528309,173701,399.312644,0.010734,1
+youtube_publish_country_snapshot,YouTube,video,United States,Unknown,buzzfeed,430,892396406,33348209,0,2916036,1058442,36264245,181919,423.067442,0.040637,2
+youtube_publish_country_snapshot,YouTube,video,Canada,Unknown,buzzfeed,301,404720413,11040337,0,1019285,516006,12059622,121883,404.92691,0.029797,3
+youtube_publish_country_snapshot,YouTube,video,United Kingdom,Unknown,star wars,294,226634581,6098576,0,1412488,573464,7511064,67386,229.204082,0.033142,4
+youtube_publish_country_snapshot,YouTube,video,United States,Unknown,nba,283,195943162,1906316,0,266990,135045,2173306,98408,347.731449,0.011092,5
+youtube_publish_country_snapshot,YouTube,video,Canada,Unknown,rhett and link,257,88518252,2285108,0,302243,81278,2587351,110802,431.136187,0.02923,6
+youtube_publish_country_snapshot,YouTube,video,United States,Unknown,diy,231,290099114,12426042,0,1155992,346341,13582034,80935,350.367965,0.046819,7
+youtube_publish_country_snapshot,YouTube,video,Canada,Unknown,gordon,212,146050588,2348305,0,326160,56921,2674465,96244,453.981132,0.018312,8
+youtube_publish_country_snapshot,YouTube,video,United Kingdom,Unknown,trailer,211,1558108733,30025363,0,1918594,641910,31943957,74251,351.900474,0.020502,9
+youtube_publish_country_snapshot,YouTube,video,United Kingdom,Unknown,wwe,205,587090246,6232999,0,1051169,654349,7284168,133305,650.268293,0.012407,10
+youtube_publish_country_snapshot,YouTube,video,United Kingdom,Unknown,jimmy,200,366512589,7938199,0,706265,378417,8644464,66862,334.31,0.023586,11
+youtube_publish_country_snapshot,YouTube,video,United Kingdom,Unknown,snl,194,583454857,6687478,0,741354,778281,7428832,97787,504.056701,0.012732,12
+youtube_publish_country_snapshot,YouTube,video,United Kingdom,Unknown,the breakfast club,193,245849283,3068753,0,2285783,578579,5354536,45204,234.217617,0.02178,13
+youtube_publish_country_snapshot,YouTube,video,United Kingdom,Unknown,james,191,502487613,13727208,0,1377909,389918,15105117,30233,158.287958,0.030061,14
+youtube_publish_country_snapshot,YouTube,video,United Kingdom,Unknown,tmz,191,36985472,331456,0,157486,77285,488942,100920,528.376963,0.01322,15
+youtube_publish_country_snapshot,YouTube,video,United States,Unknown,star wars,189,186670760,6006052,0,813533,427134,6819585,50242,265.830688,0.036533,16
+youtube_publish_country_snapshot,YouTube,video,United Kingdom,Unknown,bbc,188,50025923,743333,0,133333,44343,876666,49557,263.601064,0.017524,17
+youtube_publish_country_snapshot,YouTube,video,Canada,Unknown,true events,188,29356534,138947,0,22591,21620,161538,108303,576.079787,0.005503,18
+youtube_publish_country_snapshot,YouTube,video,United Kingdom,Unknown,the late show,187,170909026,2652851,0,324702,140897,2977553,69136,369.71123,0.017422,19
+youtube_publish_country_snapshot,YouTube,video,United States,Unknown,the late show,187,123675646,1511686,0,217376,172466,1729062,82894,443.283422,0.013981,20
+youtube_publish_country_snapshot,YouTube,video,United States,Unknown,netflix,186,180343312,4109977,0,381786,193436,4491763,109511,588.768817,0.024907,21
+youtube_publish_country_snapshot,YouTube,video,Canada,Unknown,abs-cbn,186,147582274,1670483,0,232194,75461,1902677,90557,486.865591,0.012892,22
+youtube_publish_country_snapshot,YouTube,video,United Kingdom,Unknown,the tonight show,184,392671588,8050327,0,673328,322739,8723655,91422,496.858696,0.022216,23
+youtube_publish_country_snapshot,YouTube,video,United States,Unknown,the tonight show,183,255532990,5533288,0,377653,175312,5910941,104867,573.043716,0.023132,24
+youtube_publish_country_snapshot,YouTube,video,France,Unknown,"football""",183,39462691,907956,0,104814,34930,1012770,37936,207.300546,0.025664,25
+youtube_trending_canada,YouTube,video,Canada,Unknown,nba,435,328717831,2856029,0,672280,152498,3528309,173583,399.041379,0.010734,1
+youtube_trending_canada,YouTube,video,Canada,Unknown,buzzfeed,301,404720413,11040337,0,1019285,516006,12059622,121768,404.54485,0.029797,2
+youtube_trending_canada,YouTube,video,Canada,Unknown,rhett and link,257,88518252,2285108,0,302243,81278,2587351,110802,431.136187,0.02923,3
+youtube_trending_canada,YouTube,video,Canada,Unknown,gordon,212,146050588,2348305,0,326160,56921,2674465,95812,451.943396,0.018312,4
+youtube_trending_canada,YouTube,video,Canada,Unknown,true events,188,29356534,138947,0,22591,21620,161538,107857,573.707447,0.005503,5
+youtube_trending_canada,YouTube,video,Canada,Unknown,abs-cbn,186,147582274,1670483,0,232194,75461,1902677,90545,486.801075,0.012892,6
+youtube_trending_canada,YouTube,video,Canada,Unknown,latest news,181,81036497,779731,0,915651,251183,1695382,29837,164.845304,0.020921,7
+youtube_trending_canada,YouTube,video,Canada,Unknown,the late show,174,228421316,3073793,0,374709,144859,3448502,63185,363.132184,0.015097,8
+youtube_trending_canada,YouTube,video,Canada,Unknown,vaani rani,168,60642522,308875,0,41976,71771,350851,43764,260.5,0.005786,9
+youtube_trending_canada,YouTube,video,Canada,Unknown,collegehumor,151,80389311,3620903,0,302842,154676,3923745,65062,430.874172,0.048809,10
+youtube_trending_canada,YouTube,video,Canada,Unknown,news,150,20534347,346289,0,101238,35044,447527,40625,270.833333,0.021794,11
+youtube_trending_canada,YouTube,video,Canada,Unknown,the breakfast club,149,111402110,1926436,0,1211697,250602,3138133,34196,229.503356,0.028169,12
+youtube_trending_canada,YouTube,video,Canada,Unknown,sab tv channel,144,15671973,157374,0,21579,15551,178953,82291,571.465278,0.011419,13
+youtube_trending_canada,YouTube,video,Canada,Unknown,jimmy,143,220190054,3916866,0,493158,295108,4410024,51417,359.559441,0.020028,14
+youtube_trending_canada,YouTube,video,Canada,Unknown,the real,132,11039757,174685,0,32294,3639,206979,18609,140.977273,0.018749,15
+youtube_trending_canada,YouTube,video,Canada,Unknown,espn,131,60552309,524395,0,248601,42763,772996,57284,437.282443,0.012766,16
+youtube_trending_canada,YouTube,video,Canada,Unknown,diy,129,99801368,2480371,0,251536,92666,2731907,40283,312.271318,0.027373,17
+youtube_trending_canada,YouTube,video,Canada,Unknown,youtube,126,81884158,3473562,0,503769,95500,3977331,35379,280.785714,0.048573,18
+youtube_trending_canada,YouTube,video,Canada,Unknown,the tonight show,124,197675785,4610610,0,350021,134021,4960631,61645,497.137097,0.025095,19
+youtube_trending_canada,YouTube,video,Canada,Unknown,joe rogan experience,123,67498435,1094217,0,336846,137771,1431063,30541,248.300813,0.021201,20
+youtube_trending_canada,YouTube,video,Canada,Unknown,hkayet tounsia,121,13058227,75966,0,17957,12936,93923,64924,536.561983,0.007193,21
+youtube_trending_canada,YouTube,video,Canada,Unknown,best vines 2018,120,120759121,4125001,0,626000,90992,4751001,11031,91.925,0.039343,22
+youtube_trending_canada,YouTube,video,Canada,Unknown,mystery,120,43622713,1633519,0,657100,86834,2290619,26527,221.058333,0.05251,23
+youtube_trending_canada,YouTube,video,Canada,Unknown,comedy central,120,32159187,384570,0,48642,21663,433212,57912,482.6,0.013471,24
+youtube_trending_canada,YouTube,video,Canada,Unknown,電視劇,116,11958272,15194,0,17348,4433,32542,29665,255.732759,0.002721,25
+youtube_trending_france,YouTube,video,France,Unknown,"football""",183,39462691,907956,0,104814,34930,1012770,37573,205.31694,0.025664,1
+youtube_trending_france,YouTube,video,France,Unknown,"hkayet tounsia""",152,12918078,71925,0,25058,15564,96983,82759,544.467105,0.007508,2
+youtube_trending_france,YouTube,video,France,Unknown,"senegal""",147,43736237,523628,0,133584,53823,657212,23732,161.442177,0.015027,3
+youtube_trending_france,YouTube,video,France,Unknown,"sam zirah""",137,24995430,441733,0,61497,51773,503230,67525,492.883212,0.020133,4
+youtube_trending_france,YouTube,video,France,Unknown,"tpmp""",137,14088458,163510,0,20889,22176,184399,39731,290.007299,0.013089,5
+youtube_trending_france,YouTube,video,France,Unknown,"guillaume pley""",136,22194442,1183143,0,122191,60657,1305334,70375,517.463235,0.058814,6
+youtube_trending_france,YouTube,video,France,Unknown,"johnny hallyday""",128,7185611,37243,0,8016,14270,45259,20818,162.640625,0.006299,7
+youtube_trending_france,YouTube,video,France,Unknown,"topito""",123,38789916,2522696,0,145670,78132,2668366,18159,147.634146,0.06879,8
+youtube_trending_france,YouTube,video,France,Unknown,"foot""",121,12335905,458805,0,39644,12647,498449,38609,319.082645,0.040406,9
+youtube_trending_france,YouTube,video,France,Unknown,"çukur""",119,124894963,1555711,0,238197,63893,1793908,31883,267.92437,0.014363,10
+youtube_trending_france,YouTube,video,France,Unknown,"brico sympa""",111,961634,25067,0,3186,1591,28253,63328,570.522523,0.02938,11
+youtube_trending_france,YouTube,video,France,Unknown,"vaani rani""",110,37846140,199122,0,26575,43415,225697,28887,262.609091,0.005964,12
+youtube_trending_france,YouTube,video,France,Unknown,"reaction""",106,6649904,569383,0,346654,154303,916037,51610,486.886792,0.137752,13
+youtube_trending_france,YouTube,video,France,Unknown,"france inter""",100,6491344,112961,0,7272,4291,120233,16209,162.09,0.018522,14
+youtube_trending_france,YouTube,video,France,Unknown,"jean dujardin""",98,6081767,186260,0,10457,3465,196717,17836,182.0,0.032345,15
+youtube_trending_france,YouTube,video,France,Unknown,"zap""",97,6790815,94466,0,14108,5522,108574,20705,213.453608,0.015988,16
+youtube_trending_france,YouTube,video,France,Unknown,"kuladheivam""",94,15193501,60310,0,4070,17883,64380,50439,536.585106,0.004237,17
+youtube_trending_france,YouTube,video,France,Unknown,"les grosses têtes""",89,452973,3005,0,303,369,3308,45624,512.629213,0.007303,18
+youtube_trending_france,YouTube,video,France,Unknown,"freestyle soccer""",88,32563232,2787326,0,205746,55318,2993072,13486,153.25,0.091916,19
+youtube_trending_france,YouTube,video,France,Unknown,"atv""",88,75211167,935528,0,119980,45652,1055508,36169,411.011364,0.014034,20
+youtube_trending_france,YouTube,video,France,Unknown,"nba""",88,75709741,520300,0,103347,43577,623647,31715,360.397727,0.008237,21
+youtube_trending_france,YouTube,video,France,Unknown,"dr nozman""",86,94135387,6820490,0,851673,87470,7672163,9185,106.802326,0.081501,22
+youtube_trending_france,YouTube,video,France,Unknown,"the late show""",83,89774366,1248646,0,135439,56265,1384085,31007,373.578313,0.015417,23
+youtube_trending_france,YouTube,video,France,Unknown,"people""",76,11446274,136342,0,16450,17110,152792,18849,248.013158,0.013349,24
+youtube_trending_france,YouTube,video,France,Unknown,"skyrock""",72,8985169,303404,0,23656,7957,327060,7752,107.666667,0.0364,25
+youtube_trending_germany,YouTube,video,Germany,Unknown,atv,350,256124432,2953691,0,394843,155674,3348534,138382,395.377143,0.013074,1
+youtube_trending_germany,YouTube,video,Germany,Unknown,çukur,236,224495313,2565771,0,385953,126641,2951724,68629,290.800847,0.013148,2
+youtube_trending_germany,YouTube,video,Germany,Unknown,fox,208,73612101,738621,0,89223,37176,827844,80064,384.923077,0.011246,3
+youtube_trending_germany,YouTube,video,Germany,Unknown,fußball,181,31704233,1524257,0,199582,54549,1723839,94468,521.922652,0.054373,4
+youtube_trending_germany,YouTube,video,Germany,Unknown,шарий,179,71397516,4742609,0,821450,182818,5564059,26894,150.24581,0.077931,5
+youtube_trending_germany,YouTube,video,Germany,Unknown,fifa 18,178,21632950,1537724,0,299775,60073,1837499,53504,300.58427,0.08494,6
+youtube_trending_germany,YouTube,video,Germany,Unknown,zdf,169,16475645,186453,0,42713,57513,229166,55988,331.289941,0.013909,7
+youtube_trending_germany,YouTube,video,Germany,Unknown,tipps,161,20640256,1001390,0,113362,111209,1114752,28381,176.279503,0.054009,8
+youtube_trending_germany,YouTube,video,Germany,Unknown,söz,153,208932092,3275418,0,422263,149862,3697681,71031,464.254902,0.017698,9
+youtube_trending_germany,YouTube,video,Germany,Unknown,top 10,152,42840861,1043938,0,156778,156839,1200716,64648,425.315789,0.028027,10
+youtube_trending_germany,YouTube,video,Germany,Unknown,kochen,143,12667081,664379,0,129266,21346,793645,30557,213.685315,0.062654,11
+youtube_trending_germany,YouTube,video,Germany,Unknown,the daily show,140,112780388,2212330,0,280097,103303,2492427,76055,543.25,0.0221,12
+youtube_trending_germany,YouTube,video,Germany,Unknown,adını sen koy,135,32289421,273953,0,70434,35891,344387,45613,337.874074,0.010666,13
+youtube_trending_germany,YouTube,video,Germany,Unknown,sturm der liebe,134,7216686,107838,0,32019,5243,139857,9284,69.283582,0.01938,14
+youtube_trending_germany,YouTube,video,Germany,Unknown,trt,133,69064471,510277,0,320,37283,510597,28841,216.849624,0.007393,15
+youtube_trending_germany,YouTube,video,Germany,Unknown,the late show,126,148944918,2036732,0,234004,91797,2270736,44867,356.087302,0.015245,16
+youtube_trending_germany,YouTube,video,Germany,Unknown,beni affet dizi,125,27984430,255130,0,67040,38186,322170,41815,334.52,0.011512,17
+youtube_trending_germany,YouTube,video,Germany,Unknown,berlin - tag & nacht,121,39244157,868767,0,89775,32939,958542,21513,177.793388,0.024425,18
+youtube_trending_germany,YouTube,video,Germany,Unknown,köln 50667,120,9357465,56179,0,2840,13869,59019,12871,107.258333,0.006307,19
+youtube_trending_germany,YouTube,video,Germany,Unknown,i̇stanbullu gelin izle,118,93824821,644502,0,91474,56279,735976,46600,394.915254,0.007844,20
+youtube_trending_germany,YouTube,video,Germany,Unknown,hkayet tounsia,118,15144735,84653,0,19283,15132,103936,63353,536.889831,0.006863,21
+youtube_trending_germany,YouTube,video,Germany,Unknown,afd,112,2580950,125694,0,40022,22457,165716,20117,179.616071,0.064207,22
+youtube_trending_germany,YouTube,video,Germany,Unknown,zadruga,109,24847944,228467,0,91897,30826,320364,11307,103.733945,0.012893,23
+youtube_trending_germany,YouTube,video,Germany,Unknown,world wide wohnzimmer,108,10778643,664919,0,64901,22094,729820,49242,455.944444,0.06771,24
+youtube_trending_germany,YouTube,video,Germany,Unknown,wwe,106,159167899,2885135,0,372002,164741,3257137,52821,498.311321,0.020464,25
+youtube_trending_india,YouTube,video,India,Unknown,etv shows,336,702058716,3809679,0,495860,560875,4305539,172318,512.85119,0.006133,1
+youtube_trending_india,YouTube,video,India,Unknown,tv9,329,141485277,622369,0,302457,144429,924826,110438,335.677812,0.006537,2
+youtube_trending_india,YouTube,video,India,Unknown,zee marathi,274,43993025,138179,0,5628,17944,143807,56513,206.251825,0.003269,3
+youtube_trending_india,YouTube,video,India,Unknown,flowers tv,272,186095384,1390511,0,261500,152851,1652011,104401,383.827206,0.008877,4
+youtube_trending_india,YouTube,video,India,Unknown,etv plus,253,125182975,804843,0,173574,130176,978417,145195,573.893281,0.007816,5
+youtube_trending_india,YouTube,video,India,Unknown,vaani rani,242,95609204,461458,0,62707,111525,524165,62789,259.458678,0.005482,6
+youtube_trending_india,YouTube,video,India,Unknown,zee tv,235,129249010,467171,0,25272,69251,492443,51958,221.097872,0.00381,7
+youtube_trending_india,YouTube,video,India,Unknown,etv daily serials,229,50705842,169203,0,26513,48435,195716,99102,432.759825,0.00386,8
+youtube_trending_india,YouTube,video,India,Unknown,tarang,223,22882212,103774,0,10566,16342,114340,79286,355.542601,0.004997,9
+youtube_trending_india,YouTube,video,India,Unknown,punjabi songs,219,764045897,19954965,0,1406363,1055035,21361328,116254,530.840183,0.027958,10
+youtube_trending_india,YouTube,video,India,Unknown,film news,215,50996916,139634,0,23112,46513,162746,80054,372.344186,0.003191,11
+youtube_trending_india,YouTube,video,India,Unknown,sab tv channel,211,82792914,392470,0,32020,66450,424490,120598,571.554502,0.005127,12
+youtube_trending_india,YouTube,video,India,Unknown,colors tv,198,69098054,355210,0,41247,44698,396457,82085,414.570707,0.005738,13
+youtube_trending_india,YouTube,video,India,Unknown,suntv,195,64630882,260932,0,40154,39223,301086,23242,119.189744,0.004659,14
+youtube_trending_india,YouTube,video,India,Unknown,zee telugu,184,32061626,57324,0,4880,8822,62204,32746,177.967391,0.00194,15
+youtube_trending_india,YouTube,video,India,Unknown,comedy,175,103359392,2146985,0,162154,174172,2309139,44021,251.548571,0.022341,16
+youtube_trending_india,YouTube,video,India,Unknown,5-minute crafts,173,374313298,3736016,0,218892,346310,3954908,88838,513.514451,0.010566,17
+youtube_trending_india,YouTube,video,India,Unknown,zee tamil,171,60014598,185792,0,14964,24652,200756,31348,183.321637,0.003345,18
+youtube_trending_india,YouTube,video,India,Unknown,etv,169,18871270,111866,0,10665,15012,122531,92839,549.343195,0.006493,19
+youtube_trending_india,YouTube,video,India,Unknown,kuladheivam,157,31236336,116898,0,8941,35558,125839,84370,537.388535,0.004029,20
+youtube_trending_india,YouTube,video,India,Unknown,amit bhadana,145,1030552335,62777181,0,6512674,2312649,69289855,56078,386.744828,0.067236,21
+youtube_trending_india,YouTube,video,India,Unknown,mallemalatv,133,152494239,1051574,0,108878,79641,1160452,71337,536.368421,0.00761,22
+youtube_trending_india,YouTube,video,India,Unknown,aajtak,132,65494608,319901,0,99491,92989,419392,71538,541.954545,0.006403,23
+youtube_trending_india,YouTube,video,India,Unknown,tamil news,130,25310995,204505,0,27009,34888,231514,67643,520.330769,0.009147,24
+youtube_trending_india,YouTube,video,India,Unknown,current affairs 2018,129,5857879,348170,0,42015,6656,390185,76427,592.457364,0.066609,25
+youtube_trending_japan,YouTube,video,Japan,Unknown,大食い,192,19404337,271039,0,61161,43207,332200,39097,203.630208,0.01712,1
+youtube_trending_japan,YouTube,video,Japan,Unknown,dhc,171,24035675,378607,0,361,23400,378968,21405,125.175439,0.015767,2
+youtube_trending_japan,YouTube,video,Japan,Unknown,猫,170,7672773,272851,0,33299,10695,306150,44227,260.158824,0.039901,3
+youtube_trending_japan,YouTube,video,Japan,Unknown,乃木坂46,164,33366608,742326,0,206153,57574,948479,20804,126.853659,0.028426,4
+youtube_trending_japan,YouTube,video,Japan,Unknown,fishing,145,29336808,291874,0,46060,25745,337934,39979,275.717241,0.011519,5
+youtube_trending_japan,YouTube,video,Japan,Unknown,水溜りボンド,139,80926302,2241504,0,360141,82761,2601645,15493,111.460432,0.032148,6
+youtube_trending_japan,YouTube,video,Japan,Unknown,料理,129,11424987,148892,0,24674,12312,173566,12125,93.992248,0.015192,7
+youtube_trending_japan,YouTube,video,Japan,Unknown,プロ野球,127,15107131,42485,0,25083,6535,67568,16289,128.259843,0.004473,8
+youtube_trending_japan,YouTube,video,Japan,Unknown,柴犬,108,8537662,105445,0,17460,2715,122905,15953,147.712963,0.014396,9
+youtube_trending_japan,YouTube,video,Japan,Unknown,fischer's,93,86103971,2023232,0,442767,164985,2465999,51715,556.075269,0.02864,10
+youtube_trending_japan,YouTube,video,Japan,Unknown,megwin,90,18343441,340629,0,53906,46166,394535,6041,67.122222,0.021508,11
+youtube_trending_japan,YouTube,video,Japan,Unknown,nba,88,133769632,768629,0,231031,53750,999660,39913,453.556818,0.007473,12
+youtube_trending_japan,YouTube,video,Japan,Unknown,捌き方,87,27447630,390420,0,111281,39122,501701,8994,103.37931,0.018278,13
+youtube_trending_japan,YouTube,video,Japan,Unknown,ヒカル,81,35067201,683530,0,147076,427613,830606,10481,129.395062,0.023686,14
+youtube_trending_japan,YouTube,video,Japan,Unknown,インド,79,5673570,151031,0,28006,2965,179037,8909,112.772152,0.031556,15
+youtube_trending_japan,YouTube,video,Japan,Unknown,abema,79,18578488,59431,0,23908,22848,83339,45472,575.594937,0.004486,16
+youtube_trending_japan,YouTube,video,Japan,Unknown,ボンボン,76,17891060,230475,0,66901,18180,297376,24103,317.144737,0.016621,17
+youtube_trending_japan,YouTube,video,Japan,Unknown,よーらい,76,9984111,129039,0,21642,12244,150681,4076,53.631579,0.015092,18
+youtube_trending_japan,YouTube,video,Japan,Unknown,bts,75,22798933,1575585,0,85101,14043,1660686,14548,193.973333,0.072841,19
+youtube_trending_japan,YouTube,video,Japan,Unknown,ブチかまし,75,2630409,28397,0,8298,7876,36695,11340,151.2,0.01395,20
+youtube_trending_japan,YouTube,video,Japan,Unknown,競馬,72,2671572,15596,0,2702,3153,18298,9256,128.555556,0.006849,21
+youtube_trending_japan,YouTube,video,Japan,Unknown,hajime,69,68031404,1508435,0,310427,97938,1818862,5210,75.507246,0.026736,22
+youtube_trending_japan,YouTube,video,Japan,Unknown,お笑い,69,32047724,830365,0,119096,57238,949461,9325,135.144928,0.029626,23
+youtube_trending_japan,YouTube,video,Japan,Unknown,sri lanka,69,21797573,138728,0,40950,18714,179678,37714,546.57971,0.008243,24
+youtube_trending_japan,YouTube,video,Japan,Unknown,ニュース,67,19093432,53768,0,24,49789,53792,11000,164.179104,0.002817,25
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,televisa,488,48078904,466897,0,95052,46289,561949,201602,413.118852,0.011688,1
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,noticias,382,50285646,1250624,0,237288,66315,1487912,128411,336.15445,0.029589,2
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,enamorandonos,310,45870989,331633,0,55468,55391,387101,62982,203.167742,0.008439,3
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,la,227,33234639,1921990,0,141095,45270,2063085,83047,365.845815,0.062076,4
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,cracks,218,148250365,8819036,0,543832,134113,9362868,115823,531.298165,0.063156,5
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,telemundo,182,16073605,118443,0,27462,14065,145905,102347,562.346154,0.009077,6
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,draw,181,62818340,4186016,0,751007,86368,4937023,79377,438.546961,0.078592,7
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,amlo,176,20261077,551704,0,119149,44346,670853,34397,195.4375,0.03311,8
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,exatlon,172,19896546,129934,0,44850,37094,174784,48404,281.418605,0.008785,9
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,4k,151,7722811,207381,0,83896,15933,291277,94668,626.940397,0.037716,10
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,exatlon mexico,143,14343239,76538,0,41094,24010,117632,51495,360.104895,0.008201,11
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,cruz azul,137,3887124,40909,0,6415,3124,47324,48572,354.540146,0.012175,12
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,dragon ball super,135,24933195,1106768,0,256471,49536,1363239,60599,448.881481,0.054676,13
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,enamorandonos programa completo,135,25441559,214660,0,40992,28426,255652,53425,395.740741,0.010049,14
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,exatlón,134,16144712,137224,0,71686,24610,208910,44700,333.58209,0.01294,15
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,vida,129,8161967,548773,0,51419,22723,600192,52667,408.271318,0.073535,16
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,ventaneando,129,15523504,60677,0,26410,37916,87087,33607,260.51938,0.00561,17
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,reto 4 elementos,124,18179745,204583,0,78718,38084,283301,38907,313.766129,0.015583,18
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,tips,116,6560705,177438,0,15793,9154,193231,55088,474.896552,0.029453,19
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,reflexion,114,2040247,49372,0,3399,1662,52771,44743,392.482456,0.025865,20
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,tucosmopolis,110,17408468,1470178,0,194042,45280,1664220,24081,218.918182,0.095598,21
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,programa hoy,109,16674649,85521,0,19800,21626,105321,44088,404.477064,0.006316,22
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,univision,96,11405576,91448,0,23633,39885,115081,9912,103.25,0.01009,23
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,chumel torres,94,38405409,1687099,0,188364,148459,1875463,29206,310.702128,0.048833,24
+youtube_trending_mexico,YouTube,video,Mexico,Unknown,juegagerman,93,111778573,12646451,0,2312453,206846,14958904,20263,217.88172,0.133826,25
+youtube_trending_russia,YouTube,video,Russia,Unknown,топ,250,115376680,4158811,0,434983,306819,4593794,104963,419.852,0.039816,1
+youtube_trending_russia,YouTube,video,Russia,Unknown,путин,238,38787020,1779510,0,499030,1528810,2278540,61386,257.92437,0.058745,2
+youtube_trending_russia,YouTube,video,Russia,Unknown,навальный,229,131649865,13242977,0,2775845,6456330,16018822,50465,220.371179,0.121677,3
+youtube_trending_russia,YouTube,video,Russia,Unknown,шарий,226,69812458,5077029,0,876119,178391,5953148,34758,153.79646,0.085273,4
+youtube_trending_russia,YouTube,video,Russia,Unknown,россия,216,24450597,749216,0,196883,189367,946099,74412,344.5,0.038694,5
+youtube_trending_russia,YouTube,video,Russia,Unknown,короче говоря,199,91615678,6408642,0,690762,260619,7099404,83849,421.351759,0.077491,6
+youtube_trending_russia,YouTube,video,Russia,Unknown,новости,196,36345396,426506,0,149692,115547,576198,69281,353.47449,0.015853,7
+youtube_trending_russia,YouTube,video,Russia,Unknown,эхо москвы,184,8794322,271666,0,50567,376217,322233,37080,201.521739,0.036641,8
+youtube_trending_russia,YouTube,video,Russia,Unknown,iphone,181,115650356,9563040,0,3958441,764947,13521481,33637,185.839779,0.116917,9
+youtube_trending_russia,YouTube,video,Russia,Unknown,atv,180,62545916,749658,0,109077,40015,858735,75011,416.727778,0.01373,10
+youtube_trending_russia,YouTube,video,Russia,Unknown,паукште,161,3180957,228274,0,29075,4731,257349,63526,394.571429,0.080903,11
+youtube_trending_russia,YouTube,video,Russia,Unknown,след,159,5270000,21306,0,2369,4447,23675,4861,30.572327,0.004492,12
+youtube_trending_russia,YouTube,video,Russia,Unknown,санжар калматай,150,8546187,158502,0,57939,18912,216441,33401,222.673333,0.025326,13
+youtube_trending_russia,YouTube,video,Russia,Unknown,приколы,143,15955145,209132,0,24622,39583,233754,49443,345.755245,0.014651,14
+youtube_trending_russia,YouTube,video,Russia,Unknown,камикадзе,141,46275869,2175298,0,1587549,1708571,3762847,15634,110.879433,0.081313,15
+youtube_trending_russia,YouTube,video,Russia,Unknown,семья,136,18012075,93125,0,69809,40117,162934,35284,259.441176,0.009046,16
+youtube_trending_russia,YouTube,video,Russia,Unknown,top,135,40627580,2317360,0,265077,254831,2582437,38725,286.851852,0.063564,17
+youtube_trending_russia,YouTube,video,Russia,Unknown,xezertv,134,9121134,77866,0,68557,19334,146423,47466,354.223881,0.016053,18
+youtube_trending_russia,YouTube,video,Russia,Unknown,футбол,131,19742192,570148,0,90466,31547,660614,36016,274.931298,0.033462,19
+youtube_trending_russia,YouTube,video,Russia,Unknown,семченко,124,8440600,404962,0,84183,9592,489145,23488,189.419355,0.057951,20
+youtube_trending_russia,YouTube,video,Russia,Unknown,политика,123,26857963,412257,0,180222,114592,592479,32169,261.536585,0.02206,21
+youtube_trending_russia,YouTube,video,Russia,Unknown,самвел,123,5187923,225990,0,132212,42047,358202,30028,244.130081,0.069045,22
+youtube_trending_russia,YouTube,video,Russia,Unknown,сделай сам,120,11166055,347476,0,40760,18534,388236,63983,533.191667,0.034769,23
+youtube_trending_russia,YouTube,video,Russia,Unknown,xazartv,114,2676635,41193,0,11031,2368,52224,33608,294.807018,0.019511,24
+youtube_trending_russia,YouTube,video,Russia,Unknown,президент,113,2742555,40259,0,12342,14709,52601,22083,195.424779,0.01918,25
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,문재인,280,53111366,499448,0,183651,83799,683099,37618,134.35,0.012862,1
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,영화,276,161923334,1023063,0,271307,88916,1294370,45691,165.547101,0.007994,2
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,jtbc,243,54946034,494777,0,141529,25573,636306,52358,215.465021,0.011581,3
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,황장수,232,17831359,747503,0,100542,21626,848045,24924,107.431034,0.047559,4
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,bts,223,92642073,5198404,0,378918,44486,5577322,58841,263.860987,0.060203,5
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,철구,219,80414840,650674,0,209324,75726,859998,37328,170.447489,0.010695,6
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,방탄소년단,217,116880589,16979720,0,1248262,45524,18227982,47132,217.198157,0.155954,7
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,고양이,207,41190953,1211483,0,194290,12915,1405773,29597,142.980676,0.034128,8
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,먹방,190,62411940,1010328,0,504466,30617,1514794,29019,152.731579,0.024271,9
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,워너원,185,17362791,409890,0,75792,10199,485682,30892,166.983784,0.027973,10
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,웃찾사,183,50019658,921220,0,572261,28113,1493481,31435,171.775956,0.029858,11
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,tv조선,180,28599446,131863,0,126132,35465,257995,38161,212.005556,0.009021,12
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,윤창중,178,8965042,0,0,117073,0,117073,24872,139.730337,0.013059,13
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,클래시로얄;,176,148169118,4858168,0,3198903,89828,8057071,27594,156.784091,0.054378,14
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,korean,175,134204046,3134523,0,552268,124307,3686791,60245,344.257143,0.027472,15
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,카톡,175,30054583,79791,0,84297,14551,164088,14119,80.68,0.00546,16
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,허팝,162,55231714,662740,0,230153,69425,892893,48349,298.450617,0.016166,17
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,최고다윽박,161,55439226,841169,0,226434,26516,1067603,63461,394.167702,0.019257,18
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,밴쯔,159,51912396,599652,0,140084,25756,739736,22295,140.220126,0.01425,19
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,뉴스데일리베스트,154,11787519,633014,0,122560,16733,755574,34526,224.194805,0.064099,20
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,mbc,150,30625092,228717,0,64398,17670,293115,28858,192.386667,0.009571,21
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,정규재티비,143,16158575,668349,0,117918,31097,786267,34228,239.356643,0.048659,22
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,kpop,141,130620833,6289641,0,613708,188298,6903349,41815,296.560284,0.05285,23
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,sri lanka,140,50704632,307662,0,75476,37340,383138,76501,546.435714,0.007556,24
+youtube_trending_south_korea,YouTube,video,South Korea,Unknown,tbs,135,22889618,297326,0,63195,21014,360521,44185,327.296296,0.01575,25
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,star wars,294,226634581,6098576,0,1412488,573464,7511064,67372,229.156463,0.033142,1
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,trailer,211,1558108733,30025363,0,1918594,641910,31943957,74230,351.800948,0.020502,2
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,wwe,205,587090246,6232999,0,1051169,654349,7284168,112094,546.8,0.012407,3
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,jimmy,200,366512589,7938199,0,706265,378417,8644464,66744,333.72,0.023586,4
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,snl,194,583454857,6687478,0,741354,778281,7428832,97638,503.28866,0.012732,5
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,the breakfast club,193,245849283,3068753,0,2285783,578579,5354536,45204,234.217617,0.02178,6
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,james,191,502487613,13727208,0,1377909,389918,15105117,30233,158.287958,0.030061,7
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,tmz,191,36985472,331456,0,157486,77285,488942,100918,528.366492,0.01322,8
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,bbc,188,50025923,743333,0,133333,44343,876666,49506,263.329787,0.017524,9
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,the late show,187,170909026,2652851,0,324702,140897,2977553,69136,369.71123,0.017422,10
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,the tonight show,184,392671588,8050327,0,673328,322739,8723655,91422,496.858696,0.022216,11
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,marvel,177,3999130593,100991244,0,11600052,2229212,112591296,56487,319.135593,0.028154,12
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,netflix,166,373486121,9289486,0,981975,378578,10271461,87730,528.493976,0.027502,13
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,redlettermedia,162,78401572,2921256,0,700417,149662,3621673,37387,230.783951,0.046194,14
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,late night,156,260728175,3527548,0,403004,179391,3930552,70812,453.923077,0.015075,15
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,music,152,433607981,11539006,0,650685,281173,12189691,42950,282.565789,0.028112,16
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,eminem,151,2316625242,77361183,0,7592041,3372872,84953224,40668,269.324503,0.036671,17
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,migos,146,2308834454,44356279,0,2745908,1799346,47102187,22606,154.835616,0.020401,18
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,world star hip hop,142,2583908634,44033379,0,5801686,4901162,49835065,71188,501.323944,0.019287,19
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,cardi b,140,2244153841,48113282,0,2866493,2284121,50979775,56754,405.385714,0.022717,20
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,samantha,139,14180641,668097,0,48217,15486,716314,21222,152.676259,0.050514,21
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,abc,125,168806060,3259594,0,240268,147559,3499862,56352,450.816,0.020733,22
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,latest news,124,268757766,3211903,0,3530276,1355501,6742179,21351,172.185484,0.025086,23
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,bighit,120,3075548404,283170968,0,42026951,4308871,325197919,10924,91.033333,0.105737,24
+youtube_trending_united_kingdom,YouTube,video,United Kingdom,Unknown,comedy,120,378553823,15329144,0,1074243,260065,16403387,40307,335.891667,0.043332,25
+youtube_trending_united_states,YouTube,video,United States,Unknown,buzzfeed,430,892396406,33348209,0,2916036,1058442,36264245,159960,372.0,0.040637,1
+youtube_trending_united_states,YouTube,video,United States,Unknown,nba,283,195943162,1906316,0,266990,135045,2173306,88454,312.558304,0.011092,2
+youtube_trending_united_states,YouTube,video,United States,Unknown,diy,231,290099114,12426042,0,1155992,346341,13582034,72161,312.385281,0.046819,3
+youtube_trending_united_states,YouTube,video,United States,Unknown,star wars,189,186670760,6006052,0,813533,427134,6819585,45792,242.285714,0.036533,4
+youtube_trending_united_states,YouTube,video,United States,Unknown,the late show,187,123675646,1511686,0,217376,172466,1729062,72634,388.417112,0.013981,5
+youtube_trending_united_states,YouTube,video,United States,Unknown,netflix,186,180343312,4109977,0,381786,193436,4491763,98310,528.548387,0.024907,6
+youtube_trending_united_states,YouTube,video,United States,Unknown,the tonight show,183,255532990,5533288,0,377653,175312,5910941,91659,500.868852,0.023132,7
+youtube_trending_united_states,YouTube,video,United States,Unknown,latest news,180,134813215,1688429,0,1621664,735557,3310093,23556,130.866667,0.024553,8
+youtube_trending_united_states,YouTube,video,United States,Unknown,jimmy,176,238227605,4053737,0,481515,284930,4535252,60692,344.840909,0.019037,9
+youtube_trending_united_states,YouTube,video,United States,Unknown,late night,172,158462811,1835351,0,216539,118879,2051890,75395,438.343023,0.012949,10
+youtube_trending_united_states,YouTube,video,United States,Unknown,rhett and link,164,133249183,2646979,0,316196,172656,2963175,74189,452.371951,0.022238,11
+youtube_trending_united_states,YouTube,video,United States,Unknown,james,159,404968888,21321899,0,2712854,560314,24034753,45772,287.874214,0.05935,12
+youtube_trending_united_states,YouTube,video,United States,Unknown,snl,159,478158096,5386175,0,648830,713862,6035005,81185,510.597484,0.012621,13
+youtube_trending_united_states,YouTube,video,United States,Unknown,tom scott,159,128537887,4698666,0,477971,127322,5176637,34892,219.446541,0.040273,14
+youtube_trending_united_states,YouTube,video,United States,Unknown,wwe,157,427982102,6538086,0,831421,364311,7369507,84709,539.547771,0.017219,15
+youtube_trending_united_states,YouTube,video,United States,Unknown,espn,155,80245006,694296,0,311838,94141,1006134,67198,433.535484,0.012538,16
+youtube_trending_united_states,YouTube,video,United States,Unknown,first we feast,148,161440090,6149408,0,828476,268147,6977884,70595,476.993243,0.043223,17
+youtube_trending_united_states,YouTube,video,United States,Unknown,dude perfect,143,1902092624,60730464,0,4036800,1513020,64767264,74637,521.937063,0.034051,18
+youtube_trending_united_states,YouTube,video,United States,Unknown,collegehumor,143,133652847,4437435,0,386663,257638,4824098,63339,442.93007,0.036094,19
+youtube_trending_united_states,YouTube,video,United States,Unknown,marvel,140,1871631396,57301180,0,6755810,1142593,64056990,36509,260.778571,0.034225,20
+youtube_trending_united_states,YouTube,video,United States,Unknown,jacksfilms,140,186117362,12695788,0,3972300,387428,16668088,36566,261.185714,0.089557,21
+youtube_trending_united_states,YouTube,video,United States,Unknown,bbc,140,50180891,658763,0,219397,64934,878160,38629,275.921429,0.0175,22
+youtube_trending_united_states,YouTube,video,United States,Unknown,life noggin,139,74742406,2535427,0,549702,75642,3085129,71137,511.776978,0.041277,23
+youtube_trending_united_states,YouTube,video,United States,Unknown,nfl,137,187566940,2431931,0,484096,234646,2916027,60642,442.642336,0.015547,24
+youtube_trending_united_states,YouTube,video,United States,Unknown,abc,136,199526914,2925074,0,256770,250850,3181844,58306,428.720588,0.015947,25

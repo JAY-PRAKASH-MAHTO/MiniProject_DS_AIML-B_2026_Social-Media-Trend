@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+models/
+streamlit_smoke.*
+run.txt
+.tmp/
+.tmp_test_workspace/
+*.pyc
+dataset/processed_data/*_processed.csv
+dataset/processed_data/social_media_analysis_ready.csv
